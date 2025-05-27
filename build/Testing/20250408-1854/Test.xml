@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20250408-1854-Experimental"
+	Name="CachyStan-PC"
+	Generator="ctest-4.0.2-dirty"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="15.1.1"
+	OSName="Linux"
+	Hostname="CachyStan-PC"
+	OSRelease="6.14.5-3-cachyos"
+	OSVersion="#1 SMP PREEMPT_DYNAMIC Mon, 05 May 2025 07:12:16 +0000"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="80"
+	ModelName="AMD Ryzen 7 5700G with Radeon Graphics"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="44040"
+	TotalPhysicalMemory="44041"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3573.38"
+	>
+	<Testing>
+		<StartDateTime>May 27 20:28 EEST</StartDateTime>
+		<StartTestTime>1748366893</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 27 20:28 EEST</EndDateTime>
+		<EndTestTime>1748366893</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

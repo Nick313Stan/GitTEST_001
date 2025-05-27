@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nick313stan/CPP.projects/CPP_Mar19_2025_CopilotGL/build",
+  "command": "/usr/bin/g++ -g -Wall -Wextra -Wpedantic -o CMakeFiles/CPP_Mar19_2025.dir/src/source.cpp.o -c /home/nick313stan/CPP.projects/CPP_Mar19_2025_CopilotGL/src/source.cpp",
+  "file": "/home/nick313stan/CPP.projects/CPP_Mar19_2025_CopilotGL/src/source.cpp",
+  "output": "CMakeFiles/CPP_Mar19_2025.dir/src/source.cpp.o"
+}
+]
